@@ -1,0 +1,10 @@
+.see-btn{
+    background-image: linear-gradient(90deg, rgba(36,233,164,0.8), rgba(1,162,248,0.8));
+    border-radius: 20px 0px 20px 0px;
+}
+.runningproject-container h4{
+    color: #0D052E;
+}
+.runningproject-container a:hover{
+    text-decoration: none;
+}

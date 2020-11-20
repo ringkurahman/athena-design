@@ -1,0 +1,22 @@
+.footer-container{
+    margin-top: 70px;
+}
+ul li a{
+    color: #6c757d!important;
+    font-weight: bold;
+}
+div ul{
+    list-style: none;
+}
+
+/* @media screen and (max-width: 19926px) and (min-width: 576px) {
+    .footer-container ul li{
+        text-align: center;
+    }
+  } */
+
+  @media screen and (max-width: 575px) and (min-width: 200px) {
+    .footer-container ul li {
+        text-align: center;
+    }
+  }
